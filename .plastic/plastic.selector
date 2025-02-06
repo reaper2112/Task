@@ -1,0 +1,4 @@
+repository "testTask_1@bitard2112@cloud"
+  path "/"
+    br "/main"
+    co "/main"
